@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ohohbmo.  
+- 👀 I’m interested in Data Science and Computer Science.  
+- 🌱 I’m currently learning Flutter and Rust.  
+- 💞️ I’m looking to collaborate on Linux ecosystem projects.  
+- 📫 How to reach me: ohohbmo@proton.me  
+- ⚡ Fun fact: This is the year of Linux, but I still need to make money.  
